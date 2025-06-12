@@ -59,7 +59,7 @@ Soy un estudiante apasionado por el desarrollo de software, actualmente enfocado
 ### 📱 [ConcentraTDA](https://github.com/jordan/concentraTDA)  
 Aplicación móvil con gamificación para ayudar a niños con TDAH a estudiar mediante tarjetas y videojuegos educativos.
 
-### 🖥️ [PDVM Web](https://github.com/jordan/PDVMWeb)  
+### 🖥️ [VenCloud](https://github.com/jordan/PDVMWeb)  
 Sistema de punto de venta completo usando Spring Boot y React, enfocado en negocios pequeños y medianos.
 
 ---
