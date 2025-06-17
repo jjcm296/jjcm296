@@ -56,7 +56,7 @@ Soy un estudiante apasionado por el desarrollo de software, actualmente enfocado
 
 ## 🚀 Proyectos destacados
 
-### 📱 [ConcentraTDA](https://github.com/jjcm296/concentraTDA)  
+### 📱 [ConcentraTDA](https://github.com/jjcm296/Anfeca)  
 Aplicación móvil con gamificación para ayudar a niños con TDAH a estudiar mediante tarjetas y videojuegos educativos.
 
 ### 🖥️ [VenCloud](https://github.com/jjcm296/PDVMWeb)  
